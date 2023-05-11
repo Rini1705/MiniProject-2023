@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Register","POST - Register with valid data","SUCCESS","2023-05-10T21:57:05.5403962+07:00[Asia/Jakarta]","0.0","23.57"
+"Register","POST - Register without fullname","SUCCESS","2023-05-10T21:57:29.1519269+07:00[Asia/Jakarta]","0.0","6.02"
+"Register","POST - Register without email","SUCCESS","2023-05-10T21:57:35.2043109+07:00[Asia/Jakarta]","0.0","0.55"
+"Register","POST - Register without password","SUCCESS","2023-05-10T21:57:35.7889754+07:00[Asia/Jakarta]","0.0","0.44"
+"Register","POST - Register with existed account","SUCCESS","2023-05-10T21:57:36.2537078+07:00[Asia/Jakarta]","0.0","0.43"

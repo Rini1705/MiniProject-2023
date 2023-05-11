@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories","POST - Add new category","SUCCESS","2023-05-10T21:57:40.6457039+07:00[Asia/Jakarta]","0.0","0.42"
+"Categories","POST - Add new category without description data payload","SUCCESS","2023-05-10T21:57:41.0824528+07:00[Asia/Jakarta]","0.0","0.38"
+"Categories","POST - Add new category without name data payload","SUCCESS","2023-05-10T21:57:41.4782302+07:00[Asia/Jakarta]","0.0","0.43"
+"Categories","GET - Get list all categories","SUCCESS","2023-05-10T21:57:41.9195012+07:00[Asia/Jakarta]","0.0","0.46"
+"Categories","GET - Get categories by ID","SUCCESS","2023-05-10T21:57:42.3972235+07:00[Asia/Jakarta]","0.0","0.44"

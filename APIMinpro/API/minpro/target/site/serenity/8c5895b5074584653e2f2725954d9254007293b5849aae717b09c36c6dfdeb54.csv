@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Rating","POST - Give product rating","SUCCESS","2023-05-10T21:57:50.0987494+07:00[Asia/Jakarta]","0.0","0.7"
+"Rating","POST - Give product rating out of bond","SUCCESS","2023-05-10T21:57:50.8013485+07:00[Asia/Jakarta]","0.0","0.25"
+"Rating","GET - Get product rating","SUCCESS","2023-05-10T21:57:51.0641969+07:00[Asia/Jakarta]","0.0","0.26"

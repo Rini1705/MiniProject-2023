@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Register","POST - Register without fullname","SUCCESS","2023-05-10T21:57:29.1519269+07:00[Asia/Jakarta]","0.0","6.02"
+"Product","POST - Add new product product","SUCCESS","2023-05-10T21:57:42.8619623+07:00[Asia/Jakarta]","0.0","3.35"
+"Order","GET - Get all order","SUCCESS","2023-05-10T21:57:48.4646859+07:00[Asia/Jakarta]","0.0","1.38"

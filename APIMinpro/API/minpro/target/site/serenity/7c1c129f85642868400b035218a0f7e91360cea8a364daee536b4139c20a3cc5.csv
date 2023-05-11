@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","POST - Login with valid account","SUCCESS","2023-05-10T21:57:36.7164426+07:00[Asia/Jakarta]","0.0","0.51"
+"Login","POST - Login with empty email","SUCCESS","2023-05-10T21:57:37.2547837+07:00[Asia/Jakarta]","0.0","0.52"
+"Login","POST - Login with empty password","SUCCESS","2023-05-10T21:57:37.7907485+07:00[Asia/Jakarta]","0.0","0.54"
+"Login","POST - Login without payload","SUCCESS","2023-05-10T21:57:38.3440224+07:00[Asia/Jakarta]","0.0","0.67"
+"Login","POST - Login with empty body parameter","SUCCESS","2023-05-10T21:57:39.0306303+07:00[Asia/Jakarta]","0.0","0.48"

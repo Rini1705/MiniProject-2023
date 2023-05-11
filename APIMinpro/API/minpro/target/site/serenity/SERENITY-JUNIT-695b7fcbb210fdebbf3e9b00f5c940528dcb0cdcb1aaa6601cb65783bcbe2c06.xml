@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="User Information" skipped="0" tests="2" time="1.07" timestamp="2023-05-10 09:57:39"><testcase name="GET - Get user information"/><testcase name="GET - Get user information without token"/></testsuite>

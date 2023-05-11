@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Rating" skipped="0" tests="3" time="1.2" timestamp="2023-05-10 09:57:50"><testcase name="POST - Give product rating"/><testcase name="POST - Give product rating out of bond"/><testcase name="GET - Get product rating"/></testsuite>
