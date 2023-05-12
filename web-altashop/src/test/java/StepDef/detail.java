@@ -27,7 +27,7 @@ public class detail {
 
     @And("I click detail in items product")
     public void iClickDetailInItemProduct() {
-        driver.findElement(By.xpath("//div[6]//button[@class='button-beli v-btn v-btn--outlined theme--light v-size--small primary--text']")).click();
+        driver.findElement(By.xpath("//div[5]//button[@class='button-beli v-btn v-btn--outlined theme--light v-size--small primary--text']")).click();
     }
 
     @Then("I can see detail product")

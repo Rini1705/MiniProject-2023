@@ -1,0 +1,3 @@
+[submodule "APIMinpro/API/minpro"]
+	path = APIMinpro/API/minpro
+	url = https://github.com/Rini1705/MiniProject.git

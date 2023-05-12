@@ -25,8 +25,8 @@ public class login {
 
     @And("I Enter a valid email and password")
     public void iEnterAValidEmailAndPassword() {
-        driver.findElement(By.xpath("//form[@class='v-form']/div[1]//input[1]")).sendKeys("rinimaulida1212@gmail.com");
-        driver.findElement(By.xpath("//form[@class='v-form']/div[2]//input[1]")).sendKeys("121212");
+        driver.findElement(By.xpath("//form[@class='v-form']/div[1]//input[1]")).sendKeys("rini17@gmail.com");
+        driver.findElement(By.xpath("//form[@class='v-form']/div[2]//input[1]")).sendKeys("1717");
     }
 
     @And("I click login button")
@@ -38,7 +38,7 @@ public class login {
     public void iAmOnTheHomePage() throws InterruptedException {
         Thread.sleep(3000);
 
-        driver.findElement(By.xpath("//div[@class='v-card__title")).isDisplayed();
+        driver.findElement(By.xpath("//div[@class='v-input__slot']")).isDisplayed();
         driver.close();
         driver.quit();
     }
